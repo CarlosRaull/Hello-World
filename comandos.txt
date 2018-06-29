@@ -1,0 +1,8 @@
+primero crear una carpeta en la maquina y acceder a ella
+luego hacer un clon de nuestro proyecto que esta en gitHub en la nebe con el comando:
+git clone git clone https://github.com/CarlosRaull/Hello-World
+entrar dentro de la carpeta que nos descargamos
+si creamos otro archivo tenemos q hacer :
+git status
+luego agregar:
+git add file.php
