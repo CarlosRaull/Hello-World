@@ -8,4 +8,6 @@ luego agregar:
 git add file.php
 git commit -m "probando"
 git push
+para descargar
+git pull
 
