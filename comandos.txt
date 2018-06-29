@@ -6,3 +6,5 @@ si creamos otro archivo tenemos q hacer :
 git status
 luego agregar:
 git add file.php
+git commit -m "probando"
+git push
